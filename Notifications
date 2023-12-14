@@ -1,14 +1,14 @@
 [
 {
-   "title":"Segue no Instagram",
-   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "title":"Entrar no Grupo",
+   "description":"Você usa Telegram? Entre agora em meu grupo =)",
    "request":"null",
    "type":"official",
-   "ok":"seguir",
+   "ok":"Entrar",
    "cancell":"talvez depois",
-   "ok_toast":"Manda DM que sigo de volta =)",
+   "ok_toast":"Não esquece de Entrar =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://Instagram.com/clebersonjrx",
+   "is_web":"https://t.me/yxwagroup",
    "id":"insta_",
    "cancelable":"false"
 },
@@ -21,67 +21,28 @@
    "cancell":"talvez depois",
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://Instagram.com/clebersonjrx",
+   "is_web":"https://www.instagram.com/rcbruno910/",
    "id":"insta2_",
    "cancelable":"false"
 },
 {
-   "title":"Segue no Instagram",
-   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "title":"Ainda não entrou no grupo?",
+   "description":"Entre agora e receba as atualizações =)",
    "request":"null",
    "type":"official",
-   "ok":"seguir",
+   "ok":"Entrar",
    "cancell":"talvez depois",
-   "ok_toast":"Manda DM que sigo de volta =)",
+   "ok_toast":"Não esquece de Entrar =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://Instagram.com/clebersonjrx",
+   "is_web":"https://t.me/yxwagroup",
    "id":"insta3_",
    "cancelable":"false"
 },
 {
-   "title":"Segue no Instagram",
-   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
-   "request":"null",
-   "type":"official",
-   "ok":"seguir",
-   "cancell":"talvez depois",
-   "ok_toast":"Manda DM que sigo de volta =)",
-   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://Instagram.com/clebersonjrx",
-   "id":"insta4_",
-   "cancelable":"false"
-},
-{
-   "title":"Segue no Instagram",
-   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
-   "request":"null",
-   "type":"official",
-   "ok":"seguir",
-   "cancell":"talvez depois",
-   "ok_toast":"Manda DM que sigo de volta =)",
-   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://Instagram.com/clebersonjrx",
-   "id":"insta5_",
-   "cancelable":"false"
-},
-{
-   "title":"Segue no Instagram",
-   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
-   "request":"null",
-   "type":"official",
-   "ok":"seguir",
-   "cancell":"talvez depois",
-   "ok_toast":"Manda DM que sigo de volta =)",
-   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://Instagram.com/clebersonjrx",
-   "id":"insta6_",
-   "cancelable":"false"
-},
-{
 
-   "title":"Segue no Instagram",
+   "title":"Crédito total:",
 
-   "description":"Sabia que meu desenvolvedor é brasileiro e você pode conversar com ele pela DM do isntagram? Segue ai! =)",
+   "description":"Sabia que meu fundador do YxWa é brasileiro e você pode conversar com ele pela DM do isntagram? Segue ai! =)",
 
    "request":"null",
 
